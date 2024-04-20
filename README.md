@@ -1,1 +1,1 @@
-this is an implementation of HDUSHTR
+This is an implementation of MSFF-Net.
